@@ -1,0 +1,11 @@
+
+ Lista comandi disponibili:
+
+ 1) NORD, SUD, EST, OVEST - per spostarti tra le varie zone.
+ 2) GUARDA o OSSERVA       - per una descrizione più accurata della stanza
+ 3) ESAMINA (oggetto)         - per un'idea su come utilizzarlo.
+ 4) APRI (oggetto) 	  - per aprire oggetti.
+ 5) UTILIZZA (oggetto)    - per utilizzare gli strumenti.
+ 6) PRENDI (oggetto)      - per raccogliere un oggetto.
+ 7) PREMI (oggetto)       - per premere un oggetto.
+ 8) SALVA                 - per salvare la partita.
